@@ -1,6 +1,5 @@
 # Supermarket Dashboard
 
-![Supermarket Dashboard Screenshot]<!-- Optional: Include a screenshot of your dashboard -->
 
 ## About
 
@@ -14,19 +13,4 @@ The Supermarket Dashboard is a data visualization web application built using St
 - Real-time updates of sales data to reflect the latest changes.
 - Customizable filters and parameters to tailor the view according to user preferences.
 
-<!-- List some key features of your dashboard here -->
 
-## Demo
-
-A live demo of the Supermarket Dashboard is available at [Your_Dashboard_Website_Link](https://www.your-dashboard-website.com).
-
-<!-- If your dashboard is hosted on a website, provide a link to the live demo here. -->
-
-## Installation
-
-To run the Supermarket Dashboard locally, follow these steps:
-
-1. Clone this repository to your local machine:
-
-```bash
-git clone https://github.com/YourUsername/YourRepository.git
