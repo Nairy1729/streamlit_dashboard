@@ -1,6 +1,6 @@
 # Supermarket Dashboard
 
-![Supermarket Dashboard Screenshot](url_to_dashboard_screenshot.png) <!-- Optional: Include a screenshot of your dashboard -->
+![Supermarket Dashboard Screenshot]<!-- Optional: Include a screenshot of your dashboard -->
 
 ## About
 
